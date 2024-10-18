@@ -41,4 +41,3 @@ function deleteTask(index) {
     tasks.splice(index, 1);
     updateView();
 }
-
